@@ -1,0 +1,23 @@
+{
+    "name": "Omega.Bot.Ide.Runtime",
+    "rootNamespace": "Omega.Bot.Ide",
+    "references": [
+        "BlocksEngine2",
+        "Unity.TextMeshPro",
+        "MSCameraController",
+        "LeanGUI",
+        "LeanTouch",
+        "CW.Common",
+        "FileBrowser",
+        "Omega.Amplitude.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
